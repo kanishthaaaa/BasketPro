@@ -1,6 +1,6 @@
 # BasketPro🏀
 A one stop destination for all NBA enthusiasts.
-The BasketPro app is pretty simple and here I've practised the RESTful APIs.
+The BasketPro app is pretty simple and here I've practised the implementation of RESTful APIs.
 
 This is the welcome screen, I love to create very minimal UI for the applications.
 
