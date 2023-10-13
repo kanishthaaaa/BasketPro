@@ -1,4 +1,4 @@
-# BasketPro![NBA](https://github.com/kanishthaaaa/BasketPro/assets/108674401/cde38748-cb07-4745-8d8d-c865a9647b5a)
+# BasketPro🏀
 A one stop destination for all NBA enthusiasts.
 The BasketPro app is pretty simple and here I've practised the RESTful APIs.
 
