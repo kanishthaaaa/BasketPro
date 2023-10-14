@@ -9,4 +9,6 @@ This is the teams screen, where the data is fetching in real time from the API.
 
 <img width="201" alt="image" src="https://github.com/kanishthaaaa/BasketPro/assets/108674401/a8cc44ac-97ad-4927-bd0e-b37b83bc5311">
 
-
+Platform Support
+Android 	iOS 	MacOS 	Web 	Win	 Linux
+  ✔️	    ✔️	   ✖️     ✖️  	✖️	  ✖️
